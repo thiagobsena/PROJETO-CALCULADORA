@@ -39,7 +39,7 @@ font-family: Arial, Helvetica, sans-serif;
     height: 50px;
     font-size: 25px;
     cursor: pointer;
-    background-color:orange;
+    background-color:rgba(255, 166, 0, 0.658);
     color: white;
     border: none;
     border-radius: 50px;
