@@ -69,7 +69,7 @@ z'
 }
 .btn2:hover {
     background-color:white;
-    color: orange;
+    color: rgba(255, 166, 0, 0.849);
 }
 
 #resultado {
