@@ -1,6 +1,6 @@
 *{
-    margin: 1000;
-    padding: 200;
+    margin: 0;
+    padding: 0;
 }
 
 .fundo{
@@ -14,7 +14,7 @@ font-family: Arial, Helvetica, sans-serif;
 .calculadora {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.795);
-    top: 50%;
+    top: 150%;
     left: 50%;
     transform: translate(-50%,-50%);
     border-radius: 30px;
