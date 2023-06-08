@@ -14,8 +14,8 @@ font-family: Arial, Helvetica, sans-serif;
 .calculadora {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.795);
-    top: 500%;
-    left: 150%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%,-50%);
     border-radius: 30px;
     padding: 1  5px;
